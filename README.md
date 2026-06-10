@@ -3,10 +3,19 @@
 
 <div align="center">
   
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![SSRS](https://img.shields.io/badge/SSRS-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)](https://learn.microsoft.com/en-us/sql/reporting-services/)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://www.tableau.com/)
+[![Power Platform](https://img.shields.io/badge/Power%20Platform-742774?style=flat&logo=microsoft&logoColor=white)](https://powerplatform.microsoft.com/)
+[![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=flat&logo=powerapps&logoColor=white)](https://powerapps.microsoft.com/)
+[![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat&logo=powerautomate&logoColor=white)](https://powerautomate.microsoft.com/)
+[![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat&logo=microsoft-sharepoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/sharepoint)
+[![On--Premises%20Data%20Gateway](https://img.shields.io/badge/On--Premises%20Gateway-0078D4?style=flat&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/data-integration/gateway/)
+
+
 
 <br/>
 
